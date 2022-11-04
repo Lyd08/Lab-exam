@@ -1,0 +1,9 @@
+.bgcolor{
+    background: black;
+    background-size:cover;
+}
+
+.btncolor{
+    background-color: green;
+    color: white;
+}
